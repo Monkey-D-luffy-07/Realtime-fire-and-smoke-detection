@@ -1,1 +1,0 @@
-# Realtime-fire-and-smoke-detection
